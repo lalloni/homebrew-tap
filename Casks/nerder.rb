@@ -1,7 +1,6 @@
 cask "nerder" do
   version "0.1.0"
-  # Placeholder until the first release: the update workflow fills in the real checksum.
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "ca8de23d6d2f8784ca7801a51da73562087a0434c9202c6c01b87f71df44f548"
 
   url "https://github.com/lalloni/nerder/releases/download/v#{version}/nerder-macos-universal.zip"
   name "nerder"
